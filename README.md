@@ -3,9 +3,11 @@
 
 # I'm Fishon!
 
-I'm a Developer and Technical Writer with 5+ years of experience in software development and technical writing. I specialize in creating well-structured, user-friendly documentation for web-based applications and software. 
+I'm a Backend Developer and Technical Writer with 2+ years of experience in software development and technical writing. I have a passion for creating scalable and efficient systems, and also consistently striving to improve performance and reliability of backend systems. 
 
-I have a strong understanding of web technologies, including HTML, CSS, JavaScript, and various frameworks. I'm an active member of the open source community and have contributed to several projects on GitHub. I'm committed to delivering clear, accurate, and comprehensive documentation that users can easily understand and use.
+I have a strong understanding of Python, Node Js, PHP, and Java. I also understand how to use cloud technologies such AWS and Google Clouds. I'm an active member of the open source community and have contributed to several projects. 
+
+I am always looking to learn and grow, and am eager to take on new challenges and make an impact at a dynamic and forward-thinking company. Feel free to reach out to me to discuss potential opportunities and how I can contribute to your team's success.
 
 
 
@@ -17,7 +19,7 @@ I have a strong understanding of web technologies, including HTML, CSS, JavaScri
 - [Web 3.0 Challenges and Solutions](https://fishonsnote.hashnode.dev/web-3-challenges-and-solutions)
 <!-- BLOG-POST-LIST:END -->
 
-[![Fishon's GitHub stats](https://github-readme-stats.vercel.app/api?username=amosfishon)](https://github.com/amosfishon/github-readme-stats)
+[![Fishon's GitHub stats](https://github-readme-stats.vercel.app/api?username=amosfishon)](https://github.com/amosfishon/)
 
 <br/>
 
