@@ -3,7 +3,7 @@
 
 # I'm Fishon!
 
-I'm a Backend Developer and Technical Writer with 2+ years of experience in software development and technical writing. I have a passion for creating scalable and efficient systems, and also consistently striving to improve performance and reliability of backend systems. 
+I'm a Backend Developer with 2+ years of experience in software development. I have a passion for creating scalable and efficient systems, and also consistently striving to improve performance and reliability of backend systems. 
 
 I have a strong understanding of Python, Node Js, PHP, and Java. I also understand how to use cloud technologies such AWS and Google Clouds. I'm an active member of the open source community and have contributed to several projects. 
 
