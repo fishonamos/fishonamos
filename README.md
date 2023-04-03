@@ -19,7 +19,7 @@ I am always looking to learn and grow, and am eager to take on new challenges an
 - [Web 3.0 Challenges and Solutions](https://fishonsnote.hashnode.dev/web-3-challenges-and-solutions)
 <!-- BLOG-POST-LIST:END -->
 
-[![Fishon's GitHub stats](https://github-readme-stats.vercel.app/api?username=amosfishon)](https://github.com/fishonamos/)
+[![Fishon's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishonamos)](https://github.com/fishonamos/)
 
 <br/>
 
