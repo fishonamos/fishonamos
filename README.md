@@ -9,6 +9,7 @@ I am currently building Landver, a land information verification software, while
 If you want to position your business for success using technology, you are free to reach out to me [HERE](mailto://amosfishon@outlook.com). 
 
 Best,
+
 Fishon Amos
 
 <br/>
