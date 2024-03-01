@@ -1,6 +1,6 @@
-- I have been in the technology ecosystem since 2017 as a hobby programmer. 
+- I have been in the technology space since 2018 as a hobby programmer. 
 
-- I am proficient in Javascript and comfortabale with Python and PHP. 
+- I am interested in JavaScript, Python and PHP. 
 
 - I can handle any programming problem thrown at me. 
 
