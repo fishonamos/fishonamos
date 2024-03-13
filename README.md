@@ -1,4 +1,4 @@
-👋 Hi there! I'm Amos, and I've been passionate about technology since 2018, when I started exploring programming as a hobby.
+👋 Hi there! I'm Fishon, and I've been around the software technology space since 2018.
 
 🔍 **Areas of Interest:**
 
