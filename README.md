@@ -2,10 +2,10 @@
 
 🔍 **Areas of Interest:**
 
-- **Backend Development**
-- **Software Architecture**
-- **Technical Writing**
-- **OpenSource**
+- Backend Development
+- Software Architecture
+- Technical Writing
+- OpenSource
 
 💡 **Problem Solving:**
 I enjoy solving complex programming challenges and enjoy the process of devising effective solutions.
