@@ -6,6 +6,12 @@
 - Software Architecture
 - Technical Writing
 - OpenSource
+  
+🧳 **Skill Sets**
+- JavaScript
+- Python
+- MongoDB
+- Technical Writing
 
 💡 **Problem Solving**
 
