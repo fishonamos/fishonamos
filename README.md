@@ -1,11 +1,11 @@
-👋 Hi there! I'm Fishon, and I've been around the software technology space since 2018.
+👋 Hi there! I'm Fishon, and I've been around the software technology space since 2017.
 
 🔍 **Areas of Interest**
 
 - Backend Development
 - Software Architecture
 - Technical Writing
-- OpenSource
+- Open Source
 
 💡 **Problem Solving**
 
