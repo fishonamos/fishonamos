@@ -4,6 +4,7 @@
 
 - Backend Development
 - Software Architecture
+- Blockchain
 - Technical Writing
 - Open Source
 
