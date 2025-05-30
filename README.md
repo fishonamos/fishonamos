@@ -1,1 +1,5 @@
-Hey, I’m Fishon! I’ve been in the software space since 2017. I have a passion for programming, and open-source software. I enjoy tackling tough programming problems and coming up with interesting solutions. 
+Hey, I’m Fishon! I’m passionate about programming, open-source software, and solving complex problems with creative solutions. I enjoy building tools, contributing to meaningful projects, and working with communities that value innovation.
+
+Interests: AI, Distributed Computing, Core Software, AI Agents, LLMs, Blockchain, and more.
+
+📧 amosfishon@gmail.com
