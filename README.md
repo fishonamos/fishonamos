@@ -5,10 +5,12 @@ Hey, I’m Fishon! I’m passionate about programming, open-source software, and
 - AI
 - Distributed Computing
 - Core Software
-- AI Agents
+- Agents
 - LLMs
 - Blockchain
 - Open Source
 - Problem Solving
 
 📧 amosfishon@gmail.com
+
+Research Profile: https://sciprofiles.com/profile/fishonamos
