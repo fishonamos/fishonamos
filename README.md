@@ -13,4 +13,4 @@ Hey, I’m Fishon! I’m passionate about programming, open-source software, and
 
 📧 amosfishon@gmail.com
 
-Research Profile: https://sciprofiles.com/profile/fishonamos
+Research Profile: https://www.scilit.com/scholars/30941217
